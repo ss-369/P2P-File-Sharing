@@ -1,9 +1,7 @@
 # P2P-File-Sharing
 
 
----
 
-# Distributed File Sharing System
 
 ## Description
 This project implements a distributed file sharing system where users can share and download files from a group they belong to. The system is based on socket programming and involves multiple peers sharing files concurrently. The system includes synchronized trackers, parallel downloading, and custom piece selection algorithms.
